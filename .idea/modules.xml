@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alunos/alunos.iml" filepath="$PROJECT_DIR$/alunos/alunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercícios/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/exercícios/calculadora/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercícios/circulo/circulo.iml" filepath="$PROJECT_DIR$/exercícios/circulo/circulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercícios/distancia/distancia.iml" filepath="$PROJECT_DIR$/exercícios/distancia/distancia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrada/entrada.iml" filepath="$PROJECT_DIR$/entrada/entrada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello world/hello world.iml" filepath="$PROJECT_DIR$/hello world/hello world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ijk/ijk.iml" filepath="$PROJECT_DIR$/ijk/ijk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/killowats/killowats.iml" filepath="$PROJECT_DIR$/killowats/killowats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercícios/par/par.iml" filepath="$PROJECT_DIR$/exercícios/par/par.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercícios/salario/salario.iml" filepath="$PROJECT_DIR$/exercícios/salario/salario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salario2/salario2.iml" filepath="$PROJECT_DIR$/salario2/salario2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercícios/tempo/tempo.iml" filepath="$PROJECT_DIR$/exercícios/tempo/tempo.iml" />
+    </modules>
+  </component>
+</project>

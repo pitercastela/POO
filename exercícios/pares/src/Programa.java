@@ -7,7 +7,6 @@ public class Programa {
         b = Integer.parseInt(JOptionPane.showInputDialog("b:"));
 
         if (a > b){
-            a++;
             while (a >= b){
                 if (b % 2 == 0){
                     System.out.println(b);
@@ -16,7 +15,7 @@ public class Programa {
                 }
                 b++;
             }
-            System.out.println("A soma é: " + soma + "\n A média é: " + soma/quantidade);
+            System.out.println("A soma é: " + soma + "\nA média é: " + soma/quantidade);
         }
         else if (a < b){
             while (a <= b){

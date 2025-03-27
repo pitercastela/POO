@@ -20,7 +20,7 @@ public class Programa {
             }
         }
 
-        System.out.println("Dígitos: " + digitos + "\nvogais: " + vogais + "\noutros: " + outros);
+        System.out.println("Dígitos: " + digitos + "\nVogais: " + vogais + "\nOutros: " + outros);
 
     }
 }

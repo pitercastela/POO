@@ -4,7 +4,7 @@ import control.A;
 import view.C;
 
 public class F extends A {
-
+    protected String fa1;
     public void testeA(){
         A a = new A();
         //a. aa1, aa3, aa4

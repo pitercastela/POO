@@ -23,6 +23,10 @@ public class Programa {
 
         pooSemProf.setProfessor(profTalita);
 
+        poo.addTurma(pooThiago);
+        poo.addTurma(pooSemProf);
+        EngDados.addTurma(engDadosAnderson);
+
 
         // Quais as disciplinas de um determinado professor
         System.out.println(pooThiago.getProfessor().getNome());
@@ -35,5 +39,7 @@ public class Programa {
         }
 
         //Quais professores ministram a disciplina de POO
+        for (Turma turma : poo.getTurmas())
+            System.out.println(turma.getProfessor().getNome());
     }
 }

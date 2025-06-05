@@ -8,11 +8,14 @@ public class Disciplina {
     private String nome;
     private int cargaHoraria;
     private Set<Turma> turmas;
+    private Curso curso;
 
-    public Disciplina(String codigo, String nome, int cargaHoraria) {
+
+    public Disciplina(String codigo, String nome, int cargaHoraria, Curso curso) {
         this.codigo = codigo;
         this.nome = nome;
         this.cargaHoraria = cargaHoraria;
+        this.curso = curso;
         this.turmas = new HashSet<Turma>();
     }
 
@@ -52,5 +55,13 @@ public class Disciplina {
     }
     public void removeTurma(Turma turma){
         this.turmas.remove(turma);
+    }
+
+    public Curso getCurso() {
+        return curso;
+    }
+
+    public void setCurso(Curso curso) {
+        this.curso = curso;
     }
 }
